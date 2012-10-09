@@ -324,7 +324,8 @@ Formats a string
         orange:"orange",
         banana:"bananas",
         watermelons:"watermelons"
-    }).print(); //applesssss, ####orange,    bananas and watermelon```
+    }).print(); //applesssss, ####orange,    bananas and watermelon
+```
 
 `toArray`
 
